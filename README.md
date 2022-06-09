@@ -1,7 +1,7 @@
 # Geo-JSON files
 
 ### Brazil:
-[By Region](https://raw.githubusercontent.com/antoniovitorvb/geojson/main/brazil_cities.geojson)
+[By Region](https://raw.githubusercontent.com/antoniovitorvb/geojson/main/brazil_regions.geojson)
 
 [By States](https://raw.githubusercontent.com/antoniovitorvb/geojson/main/brazil_states.geojson)
 
